@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Berkshire+Swash);
+p{
+    text-align: center;
+  font-size: 100px;
+  font-family: 'Berkshire Swash', cursive;
+  margin-top: 0;
+  text-shadow: 
+      -1px -1px 1px #111, 
+      2px 2px 0px #363636;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: white;
+}
+i{
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    margin-top: 10;
+}
